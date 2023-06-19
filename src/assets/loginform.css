@@ -1,0 +1,55 @@
+
+/*body
+{
+    background-image:url(https://cdn.shopify.com/s/files/1/0047/9730/0847/files/nurserylive-app-home-page-banner-balcony-and-terrace-garden-metal-stand-v3_c1641745-019f-492b-bb98-34fc435c3f8f_670x400.jpg?v=1636743163);
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    align-items: center;
+    background-size: cover;
+
+}*/
+.c1{
+    margin-left: 750px;
+    margin-top:250px;
+    padding-top: 20px;
+    height: 250px;
+    width: 300px;
+    border-color: black;
+    border-width: 1mm;
+    background-color: lightseagreen;
+    
+}
+.c6{
+    background-color:rgb(174, 107, 124);
+    width:300px;
+    height:30px;
+}
+.c2{
+    padding-left:100px;
+    background-color:lightgray;
+    
+    
+}
+.c3{
+    width:300px;
+    height:20px;
+    background-color:lightgray;
+}
+.c4{
+    width:500px;
+    height:40px;
+    background-color: white;
+}
+.c5{
+    width:500px;
+    height:40px;
+    background-color: white;
+}
+.div2{
+    background-color:lightgray; 
+}
+.div3{
+    background-color: lightgray;
+}
+
